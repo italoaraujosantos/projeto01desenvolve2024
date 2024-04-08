@@ -28,6 +28,8 @@ seus arquivos).
 2. Explicando uso de biblitecas no script python:
 
    a. Biblioteca OS foi usada para fazer a união dos arquivo e o diretorio atrubuindo o retorno da função para arquivos de origem e destino.
+
    b.    ''      SHUTIL foi usada para a copia usando dois parametros, diretorios de origem a destino.
+
    c.    ''      SYS para salvar a lista de parametros usada para quando invocar o script python. 
 
