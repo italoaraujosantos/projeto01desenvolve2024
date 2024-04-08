@@ -18,3 +18,16 @@
 ![Tela Arquivos](Img/TelaArquivos.png)
 
 <p>A esquerda arquivos de origem e a direita arquivos em copia de segurança.</p>
+
+### Etapas para uso Persnonalizando a sua necessidade.
+
+1. Caso deseje usar o script em shellscript para criar uma copia de segurança dos seus arquivos pessoais, profissionais ou mesmo de um projeto. 
+Atencao: edite a variaveis origem (Diretorio a qual deseja efetuar copia de segurança) e destino (diretorio ou dispositivo a qual deseje salvar 
+seus arquivos). 
+
+2. Explicando uso de biblitecas no script python:
+
+   a. Biblioteca OS foi usada para fazer a união dos arquivo e o diretorio atrubuindo o retorno da função para arquivos de origem e destino.
+   b.    ''      SHUTIL foi usada para a copia usando dois parametros, diretorios de origem a destino.
+   c.    ''      SYS para salvar a lista de parametros usada para quando invocar o script python. 
+
